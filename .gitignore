@@ -1,0 +1,18 @@
+# data
+data/raw/
+data/*.zip
+data/processed/
+*.npz
+*.parquet
+
+# results
+results/
+*.log
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+
