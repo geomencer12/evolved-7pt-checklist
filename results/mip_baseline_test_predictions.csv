@@ -1,0 +1,961 @@
+case_num,features,method,is_mel,pred
+43,concepts,human 7P-CL,0,0
+45,concepts,human 7P-CL,0,0
+53,concepts,human 7P-CL,0,0
+54,concepts,human 7P-CL,0,0
+55,concepts,human 7P-CL,0,0
+56,concepts,human 7P-CL,0,0
+58,concepts,human 7P-CL,0,0
+60,concepts,human 7P-CL,0,0
+62,concepts,human 7P-CL,0,0
+65,concepts,human 7P-CL,0,0
+67,concepts,human 7P-CL,0,0
+71,concepts,human 7P-CL,0,0
+72,concepts,human 7P-CL,0,0
+74,concepts,human 7P-CL,0,0
+79,concepts,human 7P-CL,0,0
+84,concepts,human 7P-CL,0,0
+86,concepts,human 7P-CL,0,0
+87,concepts,human 7P-CL,0,0
+90,concepts,human 7P-CL,0,0
+91,concepts,human 7P-CL,0,0
+92,concepts,human 7P-CL,0,0
+97,concepts,human 7P-CL,0,0
+98,concepts,human 7P-CL,0,1
+100,concepts,human 7P-CL,0,0
+103,concepts,human 7P-CL,0,0
+104,concepts,human 7P-CL,0,1
+107,concepts,human 7P-CL,0,1
+109,concepts,human 7P-CL,0,0
+112,concepts,human 7P-CL,0,0
+113,concepts,human 7P-CL,0,1
+114,concepts,human 7P-CL,0,0
+116,concepts,human 7P-CL,0,0
+117,concepts,human 7P-CL,0,0
+121,concepts,human 7P-CL,0,0
+126,concepts,human 7P-CL,0,0
+127,concepts,human 7P-CL,0,0
+129,concepts,human 7P-CL,0,1
+135,concepts,human 7P-CL,0,0
+136,concepts,human 7P-CL,0,1
+137,concepts,human 7P-CL,0,0
+139,concepts,human 7P-CL,0,0
+144,concepts,human 7P-CL,0,0
+145,concepts,human 7P-CL,0,0
+146,concepts,human 7P-CL,0,0
+147,concepts,human 7P-CL,0,0
+148,concepts,human 7P-CL,0,0
+150,concepts,human 7P-CL,0,0
+152,concepts,human 7P-CL,0,0
+159,concepts,human 7P-CL,0,0
+161,concepts,human 7P-CL,0,0
+162,concepts,human 7P-CL,0,0
+168,concepts,human 7P-CL,0,0
+169,concepts,human 7P-CL,0,0
+172,concepts,human 7P-CL,0,0
+173,concepts,human 7P-CL,0,0
+178,concepts,human 7P-CL,0,0
+179,concepts,human 7P-CL,0,0
+180,concepts,human 7P-CL,0,0
+182,concepts,human 7P-CL,0,0
+183,concepts,human 7P-CL,0,0
+191,concepts,human 7P-CL,0,0
+196,concepts,human 7P-CL,0,0
+197,concepts,human 7P-CL,0,0
+200,concepts,human 7P-CL,0,0
+201,concepts,human 7P-CL,0,0
+202,concepts,human 7P-CL,0,0
+206,concepts,human 7P-CL,0,0
+207,concepts,human 7P-CL,0,0
+208,concepts,human 7P-CL,0,0
+213,concepts,human 7P-CL,0,0
+216,concepts,human 7P-CL,0,0
+218,concepts,human 7P-CL,0,0
+220,concepts,human 7P-CL,0,0
+225,concepts,human 7P-CL,0,0
+227,concepts,human 7P-CL,0,0
+228,concepts,human 7P-CL,0,0
+231,concepts,human 7P-CL,0,0
+232,concepts,human 7P-CL,0,0
+239,concepts,human 7P-CL,0,0
+242,concepts,human 7P-CL,0,0
+243,concepts,human 7P-CL,0,0
+244,concepts,human 7P-CL,0,0
+249,concepts,human 7P-CL,0,0
+250,concepts,human 7P-CL,0,0
+251,concepts,human 7P-CL,0,0
+253,concepts,human 7P-CL,0,0
+254,concepts,human 7P-CL,0,0
+263,concepts,human 7P-CL,0,1
+264,concepts,human 7P-CL,0,1
+269,concepts,human 7P-CL,0,0
+270,concepts,human 7P-CL,0,0
+271,concepts,human 7P-CL,0,0
+272,concepts,human 7P-CL,0,0
+274,concepts,human 7P-CL,0,0
+276,concepts,human 7P-CL,0,0
+279,concepts,human 7P-CL,0,0
+280,concepts,human 7P-CL,0,0
+281,concepts,human 7P-CL,0,0
+282,concepts,human 7P-CL,0,0
+283,concepts,human 7P-CL,0,0
+285,concepts,human 7P-CL,0,0
+290,concepts,human 7P-CL,0,0
+292,concepts,human 7P-CL,0,1
+297,concepts,human 7P-CL,0,0
+299,concepts,human 7P-CL,0,1
+303,concepts,human 7P-CL,0,0
+308,concepts,human 7P-CL,0,0
+310,concepts,human 7P-CL,0,0
+312,concepts,human 7P-CL,0,0
+314,concepts,human 7P-CL,0,0
+320,concepts,human 7P-CL,0,0
+321,concepts,human 7P-CL,0,0
+322,concepts,human 7P-CL,0,0
+327,concepts,human 7P-CL,0,0
+328,concepts,human 7P-CL,0,1
+331,concepts,human 7P-CL,0,0
+336,concepts,human 7P-CL,0,1
+338,concepts,human 7P-CL,0,0
+339,concepts,human 7P-CL,0,0
+340,concepts,human 7P-CL,0,0
+341,concepts,human 7P-CL,0,1
+343,concepts,human 7P-CL,0,0
+345,concepts,human 7P-CL,0,0
+348,concepts,human 7P-CL,0,0
+349,concepts,human 7P-CL,0,0
+350,concepts,human 7P-CL,0,0
+352,concepts,human 7P-CL,0,0
+358,concepts,human 7P-CL,0,1
+359,concepts,human 7P-CL,0,0
+360,concepts,human 7P-CL,0,0
+362,concepts,human 7P-CL,0,1
+364,concepts,human 7P-CL,0,0
+366,concepts,human 7P-CL,0,1
+368,concepts,human 7P-CL,0,1
+371,concepts,human 7P-CL,0,0
+372,concepts,human 7P-CL,0,0
+382,concepts,human 7P-CL,0,0
+386,concepts,human 7P-CL,0,0
+391,concepts,human 7P-CL,0,0
+397,concepts,human 7P-CL,0,0
+400,concepts,human 7P-CL,0,1
+401,concepts,human 7P-CL,0,0
+403,concepts,human 7P-CL,0,0
+405,concepts,human 7P-CL,0,0
+408,concepts,human 7P-CL,0,0
+409,concepts,human 7P-CL,0,0
+411,concepts,human 7P-CL,0,0
+414,concepts,human 7P-CL,0,0
+415,concepts,human 7P-CL,0,1
+417,concepts,human 7P-CL,0,1
+418,concepts,human 7P-CL,0,1
+421,concepts,human 7P-CL,0,0
+425,concepts,human 7P-CL,0,0
+428,concepts,human 7P-CL,0,1
+433,concepts,human 7P-CL,0,0
+435,concepts,human 7P-CL,0,1
+439,concepts,human 7P-CL,0,0
+443,concepts,human 7P-CL,0,0
+444,concepts,human 7P-CL,0,0
+445,concepts,human 7P-CL,0,0
+451,concepts,human 7P-CL,0,0
+454,concepts,human 7P-CL,0,0
+457,concepts,human 7P-CL,0,0
+460,concepts,human 7P-CL,0,0
+462,concepts,human 7P-CL,0,0
+465,concepts,human 7P-CL,0,0
+469,concepts,human 7P-CL,0,0
+471,concepts,human 7P-CL,0,0
+472,concepts,human 7P-CL,0,0
+478,concepts,human 7P-CL,0,1
+480,concepts,human 7P-CL,0,0
+481,concepts,human 7P-CL,0,1
+483,concepts,human 7P-CL,0,0
+486,concepts,human 7P-CL,0,0
+491,concepts,human 7P-CL,0,1
+492,concepts,human 7P-CL,0,0
+505,concepts,human 7P-CL,0,0
+511,concepts,human 7P-CL,0,0
+517,concepts,human 7P-CL,0,0
+524,concepts,human 7P-CL,0,0
+525,concepts,human 7P-CL,0,1
+527,concepts,human 7P-CL,0,0
+528,concepts,human 7P-CL,0,0
+532,concepts,human 7P-CL,0,1
+578,concepts,human 7P-CL,1,1
+579,concepts,human 7P-CL,1,0
+581,concepts,human 7P-CL,1,1
+582,concepts,human 7P-CL,1,1
+583,concepts,human 7P-CL,1,1
+586,concepts,human 7P-CL,1,1
+589,concepts,human 7P-CL,1,1
+590,concepts,human 7P-CL,1,1
+591,concepts,human 7P-CL,1,1
+593,concepts,human 7P-CL,1,1
+596,concepts,human 7P-CL,1,1
+599,concepts,human 7P-CL,1,1
+600,concepts,human 7P-CL,1,1
+604,concepts,human 7P-CL,1,1
+609,concepts,human 7P-CL,1,1
+611,concepts,human 7P-CL,1,1
+618,concepts,human 7P-CL,1,1
+619,concepts,human 7P-CL,1,1
+620,concepts,human 7P-CL,1,1
+629,concepts,human 7P-CL,1,1
+631,concepts,human 7P-CL,1,1
+633,concepts,human 7P-CL,1,1
+634,concepts,human 7P-CL,1,1
+635,concepts,human 7P-CL,1,0
+637,concepts,human 7P-CL,1,1
+640,concepts,human 7P-CL,1,1
+641,concepts,human 7P-CL,1,1
+645,concepts,human 7P-CL,1,1
+649,concepts,human 7P-CL,1,1
+650,concepts,human 7P-CL,1,1
+653,concepts,human 7P-CL,1,1
+656,concepts,human 7P-CL,1,1
+657,concepts,human 7P-CL,1,1
+661,concepts,human 7P-CL,1,1
+664,concepts,human 7P-CL,1,1
+672,concepts,human 7P-CL,1,1
+673,concepts,human 7P-CL,1,1
+677,concepts,human 7P-CL,1,1
+683,concepts,human 7P-CL,1,1
+685,concepts,human 7P-CL,1,1
+688,concepts,human 7P-CL,1,1
+689,concepts,human 7P-CL,1,1
+693,concepts,human 7P-CL,1,1
+696,concepts,human 7P-CL,1,1
+700,concepts,human 7P-CL,1,1
+702,concepts,human 7P-CL,1,1
+705,concepts,human 7P-CL,1,1
+708,concepts,human 7P-CL,1,0
+710,concepts,human 7P-CL,1,1
+711,concepts,human 7P-CL,1,1
+716,concepts,human 7P-CL,1,1
+717,concepts,human 7P-CL,1,1
+720,concepts,human 7P-CL,1,1
+721,concepts,human 7P-CL,1,1
+722,concepts,human 7P-CL,1,0
+724,concepts,human 7P-CL,1,1
+726,concepts,human 7P-CL,1,1
+727,concepts,human 7P-CL,1,1
+728,concepts,human 7P-CL,1,1
+730,concepts,human 7P-CL,1,1
+732,concepts,human 7P-CL,1,1
+733,concepts,human 7P-CL,1,1
+735,concepts,human 7P-CL,1,1
+736,concepts,human 7P-CL,1,1
+739,concepts,human 7P-CL,1,1
+741,concepts,human 7P-CL,1,1
+744,concepts,human 7P-CL,1,1
+745,concepts,human 7P-CL,1,1
+747,concepts,human 7P-CL,1,1
+752,concepts,human 7P-CL,1,1
+759,concepts,human 7P-CL,1,1
+760,concepts,human 7P-CL,1,1
+761,concepts,human 7P-CL,1,1
+762,concepts,human 7P-CL,1,1
+766,concepts,human 7P-CL,1,1
+777,concepts,human 7P-CL,1,1
+780,concepts,human 7P-CL,1,1
+781,concepts,human 7P-CL,1,1
+782,concepts,human 7P-CL,1,1
+786,concepts,human 7P-CL,1,1
+787,concepts,human 7P-CL,1,1
+791,concepts,human 7P-CL,1,1
+792,concepts,human 7P-CL,1,1
+793,concepts,human 7P-CL,1,1
+796,concepts,human 7P-CL,1,1
+797,concepts,human 7P-CL,1,1
+799,concepts,human 7P-CL,1,1
+801,concepts,human 7P-CL,1,1
+804,concepts,human 7P-CL,1,1
+806,concepts,human 7P-CL,1,1
+808,concepts,human 7P-CL,1,1
+810,concepts,human 7P-CL,1,1
+811,concepts,human 7P-CL,1,0
+812,concepts,human 7P-CL,1,1
+813,concepts,human 7P-CL,1,1
+817,concepts,human 7P-CL,1,1
+818,concepts,human 7P-CL,1,1
+820,concepts,human 7P-CL,1,1
+821,concepts,human 7P-CL,1,1
+827,concepts,human 7P-CL,1,1
+854,concepts,human 7P-CL,0,0
+859,concepts,human 7P-CL,0,0
+862,concepts,human 7P-CL,0,1
+863,concepts,human 7P-CL,0,1
+865,concepts,human 7P-CL,0,0
+866,concepts,human 7P-CL,0,0
+867,concepts,human 7P-CL,0,1
+868,concepts,human 7P-CL,0,0
+872,concepts,human 7P-CL,0,1
+874,concepts,human 7P-CL,0,1
+878,concepts,human 7P-CL,0,0
+880,concepts,human 7P-CL,0,0
+881,concepts,human 7P-CL,0,0
+884,concepts,human 7P-CL,0,1
+887,concepts,human 7P-CL,0,1
+888,concepts,human 7P-CL,0,1
+889,concepts,human 7P-CL,0,1
+890,concepts,human 7P-CL,0,1
+897,concepts,human 7P-CL,0,0
+901,concepts,human 7P-CL,0,1
+904,concepts,human 7P-CL,0,0
+905,concepts,human 7P-CL,0,1
+908,concepts,human 7P-CL,0,0
+909,concepts,human 7P-CL,0,0
+910,concepts,human 7P-CL,0,0
+911,concepts,human 7P-CL,0,1
+912,concepts,human 7P-CL,0,1
+915,concepts,human 7P-CL,0,1
+916,concepts,human 7P-CL,0,0
+919,concepts,human 7P-CL,0,1
+920,concepts,human 7P-CL,0,1
+922,concepts,human 7P-CL,0,1
+924,concepts,human 7P-CL,0,0
+926,concepts,human 7P-CL,0,1
+936,concepts,human 7P-CL,0,0
+1011,concepts,human 7P-CL,1,0
+43,concepts,MIP,0,0
+45,concepts,MIP,0,0
+53,concepts,MIP,0,0
+54,concepts,MIP,0,0
+55,concepts,MIP,0,0
+56,concepts,MIP,0,0
+58,concepts,MIP,0,0
+60,concepts,MIP,0,0
+62,concepts,MIP,0,0
+65,concepts,MIP,0,0
+67,concepts,MIP,0,0
+71,concepts,MIP,0,0
+72,concepts,MIP,0,0
+74,concepts,MIP,0,0
+79,concepts,MIP,0,0
+84,concepts,MIP,0,0
+86,concepts,MIP,0,0
+87,concepts,MIP,0,0
+90,concepts,MIP,0,0
+91,concepts,MIP,0,0
+92,concepts,MIP,0,0
+97,concepts,MIP,0,0
+98,concepts,MIP,0,1
+100,concepts,MIP,0,0
+103,concepts,MIP,0,0
+104,concepts,MIP,0,0
+107,concepts,MIP,0,1
+109,concepts,MIP,0,0
+112,concepts,MIP,0,0
+113,concepts,MIP,0,1
+114,concepts,MIP,0,0
+116,concepts,MIP,0,0
+117,concepts,MIP,0,0
+121,concepts,MIP,0,0
+126,concepts,MIP,0,0
+127,concepts,MIP,0,0
+129,concepts,MIP,0,1
+135,concepts,MIP,0,0
+136,concepts,MIP,0,1
+137,concepts,MIP,0,0
+139,concepts,MIP,0,0
+144,concepts,MIP,0,0
+145,concepts,MIP,0,0
+146,concepts,MIP,0,0
+147,concepts,MIP,0,0
+148,concepts,MIP,0,0
+150,concepts,MIP,0,0
+152,concepts,MIP,0,0
+159,concepts,MIP,0,0
+161,concepts,MIP,0,0
+162,concepts,MIP,0,0
+168,concepts,MIP,0,0
+169,concepts,MIP,0,0
+172,concepts,MIP,0,0
+173,concepts,MIP,0,0
+178,concepts,MIP,0,0
+179,concepts,MIP,0,0
+180,concepts,MIP,0,1
+182,concepts,MIP,0,0
+183,concepts,MIP,0,0
+191,concepts,MIP,0,1
+196,concepts,MIP,0,0
+197,concepts,MIP,0,0
+200,concepts,MIP,0,0
+201,concepts,MIP,0,0
+202,concepts,MIP,0,1
+206,concepts,MIP,0,1
+207,concepts,MIP,0,0
+208,concepts,MIP,0,0
+213,concepts,MIP,0,0
+216,concepts,MIP,0,0
+218,concepts,MIP,0,0
+220,concepts,MIP,0,0
+225,concepts,MIP,0,0
+227,concepts,MIP,0,0
+228,concepts,MIP,0,0
+231,concepts,MIP,0,0
+232,concepts,MIP,0,0
+239,concepts,MIP,0,0
+242,concepts,MIP,0,0
+243,concepts,MIP,0,0
+244,concepts,MIP,0,0
+249,concepts,MIP,0,0
+250,concepts,MIP,0,0
+251,concepts,MIP,0,0
+253,concepts,MIP,0,0
+254,concepts,MIP,0,0
+263,concepts,MIP,0,0
+264,concepts,MIP,0,1
+269,concepts,MIP,0,0
+270,concepts,MIP,0,0
+271,concepts,MIP,0,0
+272,concepts,MIP,0,0
+274,concepts,MIP,0,0
+276,concepts,MIP,0,0
+279,concepts,MIP,0,0
+280,concepts,MIP,0,1
+281,concepts,MIP,0,0
+282,concepts,MIP,0,0
+283,concepts,MIP,0,0
+285,concepts,MIP,0,0
+290,concepts,MIP,0,0
+292,concepts,MIP,0,1
+297,concepts,MIP,0,0
+299,concepts,MIP,0,1
+303,concepts,MIP,0,0
+308,concepts,MIP,0,0
+310,concepts,MIP,0,0
+312,concepts,MIP,0,0
+314,concepts,MIP,0,0
+320,concepts,MIP,0,0
+321,concepts,MIP,0,0
+322,concepts,MIP,0,0
+327,concepts,MIP,0,0
+328,concepts,MIP,0,1
+331,concepts,MIP,0,0
+336,concepts,MIP,0,0
+338,concepts,MIP,0,0
+339,concepts,MIP,0,0
+340,concepts,MIP,0,0
+341,concepts,MIP,0,1
+343,concepts,MIP,0,0
+345,concepts,MIP,0,0
+348,concepts,MIP,0,0
+349,concepts,MIP,0,0
+350,concepts,MIP,0,0
+352,concepts,MIP,0,0
+358,concepts,MIP,0,1
+359,concepts,MIP,0,0
+360,concepts,MIP,0,0
+362,concepts,MIP,0,1
+364,concepts,MIP,0,0
+366,concepts,MIP,0,1
+368,concepts,MIP,0,0
+371,concepts,MIP,0,0
+372,concepts,MIP,0,0
+382,concepts,MIP,0,0
+386,concepts,MIP,0,0
+391,concepts,MIP,0,0
+397,concepts,MIP,0,0
+400,concepts,MIP,0,1
+401,concepts,MIP,0,0
+403,concepts,MIP,0,0
+405,concepts,MIP,0,0
+408,concepts,MIP,0,0
+409,concepts,MIP,0,0
+411,concepts,MIP,0,0
+414,concepts,MIP,0,0
+415,concepts,MIP,0,1
+417,concepts,MIP,0,1
+418,concepts,MIP,0,1
+421,concepts,MIP,0,0
+425,concepts,MIP,0,0
+428,concepts,MIP,0,1
+433,concepts,MIP,0,0
+435,concepts,MIP,0,1
+439,concepts,MIP,0,0
+443,concepts,MIP,0,0
+444,concepts,MIP,0,0
+445,concepts,MIP,0,0
+451,concepts,MIP,0,0
+454,concepts,MIP,0,0
+457,concepts,MIP,0,0
+460,concepts,MIP,0,0
+462,concepts,MIP,0,0
+465,concepts,MIP,0,0
+469,concepts,MIP,0,0
+471,concepts,MIP,0,0
+472,concepts,MIP,0,0
+478,concepts,MIP,0,1
+480,concepts,MIP,0,0
+481,concepts,MIP,0,0
+483,concepts,MIP,0,0
+486,concepts,MIP,0,0
+491,concepts,MIP,0,1
+492,concepts,MIP,0,0
+505,concepts,MIP,0,0
+511,concepts,MIP,0,0
+517,concepts,MIP,0,0
+524,concepts,MIP,0,0
+525,concepts,MIP,0,1
+527,concepts,MIP,0,0
+528,concepts,MIP,0,0
+532,concepts,MIP,0,1
+578,concepts,MIP,1,1
+579,concepts,MIP,1,0
+581,concepts,MIP,1,1
+582,concepts,MIP,1,1
+583,concepts,MIP,1,1
+586,concepts,MIP,1,1
+589,concepts,MIP,1,1
+590,concepts,MIP,1,1
+591,concepts,MIP,1,1
+593,concepts,MIP,1,1
+596,concepts,MIP,1,1
+599,concepts,MIP,1,1
+600,concepts,MIP,1,1
+604,concepts,MIP,1,1
+609,concepts,MIP,1,1
+611,concepts,MIP,1,1
+618,concepts,MIP,1,0
+619,concepts,MIP,1,0
+620,concepts,MIP,1,1
+629,concepts,MIP,1,1
+631,concepts,MIP,1,1
+633,concepts,MIP,1,1
+634,concepts,MIP,1,0
+635,concepts,MIP,1,0
+637,concepts,MIP,1,1
+640,concepts,MIP,1,0
+641,concepts,MIP,1,1
+645,concepts,MIP,1,1
+649,concepts,MIP,1,1
+650,concepts,MIP,1,1
+653,concepts,MIP,1,0
+656,concepts,MIP,1,1
+657,concepts,MIP,1,1
+661,concepts,MIP,1,1
+664,concepts,MIP,1,1
+672,concepts,MIP,1,1
+673,concepts,MIP,1,1
+677,concepts,MIP,1,1
+683,concepts,MIP,1,1
+685,concepts,MIP,1,1
+688,concepts,MIP,1,1
+689,concepts,MIP,1,1
+693,concepts,MIP,1,1
+696,concepts,MIP,1,1
+700,concepts,MIP,1,1
+702,concepts,MIP,1,1
+705,concepts,MIP,1,1
+708,concepts,MIP,1,0
+710,concepts,MIP,1,0
+711,concepts,MIP,1,1
+716,concepts,MIP,1,1
+717,concepts,MIP,1,1
+720,concepts,MIP,1,1
+721,concepts,MIP,1,1
+722,concepts,MIP,1,0
+724,concepts,MIP,1,1
+726,concepts,MIP,1,1
+727,concepts,MIP,1,1
+728,concepts,MIP,1,1
+730,concepts,MIP,1,1
+732,concepts,MIP,1,1
+733,concepts,MIP,1,1
+735,concepts,MIP,1,1
+736,concepts,MIP,1,1
+739,concepts,MIP,1,0
+741,concepts,MIP,1,1
+744,concepts,MIP,1,1
+745,concepts,MIP,1,1
+747,concepts,MIP,1,1
+752,concepts,MIP,1,1
+759,concepts,MIP,1,1
+760,concepts,MIP,1,1
+761,concepts,MIP,1,1
+762,concepts,MIP,1,1
+766,concepts,MIP,1,1
+777,concepts,MIP,1,1
+780,concepts,MIP,1,1
+781,concepts,MIP,1,1
+782,concepts,MIP,1,1
+786,concepts,MIP,1,1
+787,concepts,MIP,1,1
+791,concepts,MIP,1,1
+792,concepts,MIP,1,1
+793,concepts,MIP,1,1
+796,concepts,MIP,1,1
+797,concepts,MIP,1,1
+799,concepts,MIP,1,1
+801,concepts,MIP,1,1
+804,concepts,MIP,1,1
+806,concepts,MIP,1,1
+808,concepts,MIP,1,1
+810,concepts,MIP,1,1
+811,concepts,MIP,1,0
+812,concepts,MIP,1,1
+813,concepts,MIP,1,1
+817,concepts,MIP,1,1
+818,concepts,MIP,1,1
+820,concepts,MIP,1,1
+821,concepts,MIP,1,1
+827,concepts,MIP,1,1
+854,concepts,MIP,0,0
+859,concepts,MIP,0,0
+862,concepts,MIP,0,1
+863,concepts,MIP,0,1
+865,concepts,MIP,0,0
+866,concepts,MIP,0,0
+867,concepts,MIP,0,1
+868,concepts,MIP,0,0
+872,concepts,MIP,0,1
+874,concepts,MIP,0,1
+878,concepts,MIP,0,0
+880,concepts,MIP,0,0
+881,concepts,MIP,0,0
+884,concepts,MIP,0,1
+887,concepts,MIP,0,0
+888,concepts,MIP,0,1
+889,concepts,MIP,0,1
+890,concepts,MIP,0,1
+897,concepts,MIP,0,0
+901,concepts,MIP,0,1
+904,concepts,MIP,0,0
+905,concepts,MIP,0,1
+908,concepts,MIP,0,0
+909,concepts,MIP,0,0
+910,concepts,MIP,0,0
+911,concepts,MIP,0,1
+912,concepts,MIP,0,1
+915,concepts,MIP,0,1
+916,concepts,MIP,0,0
+919,concepts,MIP,0,1
+920,concepts,MIP,0,1
+922,concepts,MIP,0,1
+924,concepts,MIP,0,0
+926,concepts,MIP,0,1
+936,concepts,MIP,0,0
+1011,concepts,MIP,1,0
+43,concepts+metadata,MIP,0,0
+45,concepts+metadata,MIP,0,0
+53,concepts+metadata,MIP,0,0
+54,concepts+metadata,MIP,0,0
+55,concepts+metadata,MIP,0,0
+56,concepts+metadata,MIP,0,0
+58,concepts+metadata,MIP,0,0
+60,concepts+metadata,MIP,0,0
+62,concepts+metadata,MIP,0,0
+65,concepts+metadata,MIP,0,0
+67,concepts+metadata,MIP,0,0
+71,concepts+metadata,MIP,0,0
+72,concepts+metadata,MIP,0,0
+74,concepts+metadata,MIP,0,0
+79,concepts+metadata,MIP,0,0
+84,concepts+metadata,MIP,0,0
+86,concepts+metadata,MIP,0,0
+87,concepts+metadata,MIP,0,0
+90,concepts+metadata,MIP,0,0
+91,concepts+metadata,MIP,0,0
+92,concepts+metadata,MIP,0,0
+97,concepts+metadata,MIP,0,0
+98,concepts+metadata,MIP,0,1
+100,concepts+metadata,MIP,0,0
+103,concepts+metadata,MIP,0,0
+104,concepts+metadata,MIP,0,0
+107,concepts+metadata,MIP,0,1
+109,concepts+metadata,MIP,0,0
+112,concepts+metadata,MIP,0,0
+113,concepts+metadata,MIP,0,1
+114,concepts+metadata,MIP,0,0
+116,concepts+metadata,MIP,0,0
+117,concepts+metadata,MIP,0,0
+121,concepts+metadata,MIP,0,0
+126,concepts+metadata,MIP,0,0
+127,concepts+metadata,MIP,0,0
+129,concepts+metadata,MIP,0,1
+135,concepts+metadata,MIP,0,0
+136,concepts+metadata,MIP,0,1
+137,concepts+metadata,MIP,0,0
+139,concepts+metadata,MIP,0,0
+144,concepts+metadata,MIP,0,0
+145,concepts+metadata,MIP,0,0
+146,concepts+metadata,MIP,0,0
+147,concepts+metadata,MIP,0,0
+148,concepts+metadata,MIP,0,0
+150,concepts+metadata,MIP,0,0
+152,concepts+metadata,MIP,0,0
+159,concepts+metadata,MIP,0,0
+161,concepts+metadata,MIP,0,0
+162,concepts+metadata,MIP,0,0
+168,concepts+metadata,MIP,0,0
+169,concepts+metadata,MIP,0,0
+172,concepts+metadata,MIP,0,0
+173,concepts+metadata,MIP,0,0
+178,concepts+metadata,MIP,0,0
+179,concepts+metadata,MIP,0,0
+180,concepts+metadata,MIP,0,1
+182,concepts+metadata,MIP,0,0
+183,concepts+metadata,MIP,0,0
+191,concepts+metadata,MIP,0,1
+196,concepts+metadata,MIP,0,0
+197,concepts+metadata,MIP,0,0
+200,concepts+metadata,MIP,0,0
+201,concepts+metadata,MIP,0,0
+202,concepts+metadata,MIP,0,1
+206,concepts+metadata,MIP,0,1
+207,concepts+metadata,MIP,0,0
+208,concepts+metadata,MIP,0,0
+213,concepts+metadata,MIP,0,0
+216,concepts+metadata,MIP,0,0
+218,concepts+metadata,MIP,0,0
+220,concepts+metadata,MIP,0,0
+225,concepts+metadata,MIP,0,0
+227,concepts+metadata,MIP,0,0
+228,concepts+metadata,MIP,0,0
+231,concepts+metadata,MIP,0,0
+232,concepts+metadata,MIP,0,0
+239,concepts+metadata,MIP,0,0
+242,concepts+metadata,MIP,0,0
+243,concepts+metadata,MIP,0,0
+244,concepts+metadata,MIP,0,0
+249,concepts+metadata,MIP,0,0
+250,concepts+metadata,MIP,0,0
+251,concepts+metadata,MIP,0,0
+253,concepts+metadata,MIP,0,0
+254,concepts+metadata,MIP,0,0
+263,concepts+metadata,MIP,0,0
+264,concepts+metadata,MIP,0,1
+269,concepts+metadata,MIP,0,0
+270,concepts+metadata,MIP,0,0
+271,concepts+metadata,MIP,0,0
+272,concepts+metadata,MIP,0,0
+274,concepts+metadata,MIP,0,0
+276,concepts+metadata,MIP,0,0
+279,concepts+metadata,MIP,0,0
+280,concepts+metadata,MIP,0,1
+281,concepts+metadata,MIP,0,0
+282,concepts+metadata,MIP,0,0
+283,concepts+metadata,MIP,0,0
+285,concepts+metadata,MIP,0,0
+290,concepts+metadata,MIP,0,0
+292,concepts+metadata,MIP,0,1
+297,concepts+metadata,MIP,0,0
+299,concepts+metadata,MIP,0,1
+303,concepts+metadata,MIP,0,0
+308,concepts+metadata,MIP,0,0
+310,concepts+metadata,MIP,0,0
+312,concepts+metadata,MIP,0,0
+314,concepts+metadata,MIP,0,0
+320,concepts+metadata,MIP,0,0
+321,concepts+metadata,MIP,0,0
+322,concepts+metadata,MIP,0,0
+327,concepts+metadata,MIP,0,0
+328,concepts+metadata,MIP,0,1
+331,concepts+metadata,MIP,0,0
+336,concepts+metadata,MIP,0,0
+338,concepts+metadata,MIP,0,0
+339,concepts+metadata,MIP,0,0
+340,concepts+metadata,MIP,0,0
+341,concepts+metadata,MIP,0,1
+343,concepts+metadata,MIP,0,0
+345,concepts+metadata,MIP,0,0
+348,concepts+metadata,MIP,0,0
+349,concepts+metadata,MIP,0,0
+350,concepts+metadata,MIP,0,0
+352,concepts+metadata,MIP,0,0
+358,concepts+metadata,MIP,0,1
+359,concepts+metadata,MIP,0,0
+360,concepts+metadata,MIP,0,0
+362,concepts+metadata,MIP,0,1
+364,concepts+metadata,MIP,0,0
+366,concepts+metadata,MIP,0,1
+368,concepts+metadata,MIP,0,0
+371,concepts+metadata,MIP,0,0
+372,concepts+metadata,MIP,0,0
+382,concepts+metadata,MIP,0,0
+386,concepts+metadata,MIP,0,0
+391,concepts+metadata,MIP,0,0
+397,concepts+metadata,MIP,0,0
+400,concepts+metadata,MIP,0,1
+401,concepts+metadata,MIP,0,0
+403,concepts+metadata,MIP,0,0
+405,concepts+metadata,MIP,0,0
+408,concepts+metadata,MIP,0,0
+409,concepts+metadata,MIP,0,0
+411,concepts+metadata,MIP,0,0
+414,concepts+metadata,MIP,0,0
+415,concepts+metadata,MIP,0,1
+417,concepts+metadata,MIP,0,1
+418,concepts+metadata,MIP,0,1
+421,concepts+metadata,MIP,0,0
+425,concepts+metadata,MIP,0,0
+428,concepts+metadata,MIP,0,1
+433,concepts+metadata,MIP,0,0
+435,concepts+metadata,MIP,0,1
+439,concepts+metadata,MIP,0,0
+443,concepts+metadata,MIP,0,0
+444,concepts+metadata,MIP,0,0
+445,concepts+metadata,MIP,0,0
+451,concepts+metadata,MIP,0,0
+454,concepts+metadata,MIP,0,0
+457,concepts+metadata,MIP,0,0
+460,concepts+metadata,MIP,0,0
+462,concepts+metadata,MIP,0,0
+465,concepts+metadata,MIP,0,0
+469,concepts+metadata,MIP,0,0
+471,concepts+metadata,MIP,0,0
+472,concepts+metadata,MIP,0,0
+478,concepts+metadata,MIP,0,1
+480,concepts+metadata,MIP,0,0
+481,concepts+metadata,MIP,0,0
+483,concepts+metadata,MIP,0,0
+486,concepts+metadata,MIP,0,0
+491,concepts+metadata,MIP,0,1
+492,concepts+metadata,MIP,0,0
+505,concepts+metadata,MIP,0,0
+511,concepts+metadata,MIP,0,0
+517,concepts+metadata,MIP,0,0
+524,concepts+metadata,MIP,0,0
+525,concepts+metadata,MIP,0,1
+527,concepts+metadata,MIP,0,0
+528,concepts+metadata,MIP,0,0
+532,concepts+metadata,MIP,0,1
+578,concepts+metadata,MIP,1,1
+579,concepts+metadata,MIP,1,0
+581,concepts+metadata,MIP,1,1
+582,concepts+metadata,MIP,1,1
+583,concepts+metadata,MIP,1,1
+586,concepts+metadata,MIP,1,1
+589,concepts+metadata,MIP,1,1
+590,concepts+metadata,MIP,1,1
+591,concepts+metadata,MIP,1,1
+593,concepts+metadata,MIP,1,1
+596,concepts+metadata,MIP,1,1
+599,concepts+metadata,MIP,1,1
+600,concepts+metadata,MIP,1,1
+604,concepts+metadata,MIP,1,1
+609,concepts+metadata,MIP,1,1
+611,concepts+metadata,MIP,1,1
+618,concepts+metadata,MIP,1,0
+619,concepts+metadata,MIP,1,0
+620,concepts+metadata,MIP,1,1
+629,concepts+metadata,MIP,1,1
+631,concepts+metadata,MIP,1,1
+633,concepts+metadata,MIP,1,1
+634,concepts+metadata,MIP,1,0
+635,concepts+metadata,MIP,1,0
+637,concepts+metadata,MIP,1,1
+640,concepts+metadata,MIP,1,0
+641,concepts+metadata,MIP,1,1
+645,concepts+metadata,MIP,1,1
+649,concepts+metadata,MIP,1,1
+650,concepts+metadata,MIP,1,1
+653,concepts+metadata,MIP,1,0
+656,concepts+metadata,MIP,1,1
+657,concepts+metadata,MIP,1,1
+661,concepts+metadata,MIP,1,1
+664,concepts+metadata,MIP,1,1
+672,concepts+metadata,MIP,1,1
+673,concepts+metadata,MIP,1,1
+677,concepts+metadata,MIP,1,1
+683,concepts+metadata,MIP,1,1
+685,concepts+metadata,MIP,1,1
+688,concepts+metadata,MIP,1,1
+689,concepts+metadata,MIP,1,1
+693,concepts+metadata,MIP,1,1
+696,concepts+metadata,MIP,1,1
+700,concepts+metadata,MIP,1,1
+702,concepts+metadata,MIP,1,1
+705,concepts+metadata,MIP,1,1
+708,concepts+metadata,MIP,1,0
+710,concepts+metadata,MIP,1,0
+711,concepts+metadata,MIP,1,1
+716,concepts+metadata,MIP,1,1
+717,concepts+metadata,MIP,1,1
+720,concepts+metadata,MIP,1,1
+721,concepts+metadata,MIP,1,1
+722,concepts+metadata,MIP,1,0
+724,concepts+metadata,MIP,1,1
+726,concepts+metadata,MIP,1,1
+727,concepts+metadata,MIP,1,1
+728,concepts+metadata,MIP,1,1
+730,concepts+metadata,MIP,1,1
+732,concepts+metadata,MIP,1,1
+733,concepts+metadata,MIP,1,1
+735,concepts+metadata,MIP,1,1
+736,concepts+metadata,MIP,1,1
+739,concepts+metadata,MIP,1,0
+741,concepts+metadata,MIP,1,1
+744,concepts+metadata,MIP,1,1
+745,concepts+metadata,MIP,1,1
+747,concepts+metadata,MIP,1,1
+752,concepts+metadata,MIP,1,1
+759,concepts+metadata,MIP,1,1
+760,concepts+metadata,MIP,1,1
+761,concepts+metadata,MIP,1,1
+762,concepts+metadata,MIP,1,1
+766,concepts+metadata,MIP,1,1
+777,concepts+metadata,MIP,1,1
+780,concepts+metadata,MIP,1,1
+781,concepts+metadata,MIP,1,1
+782,concepts+metadata,MIP,1,1
+786,concepts+metadata,MIP,1,1
+787,concepts+metadata,MIP,1,1
+791,concepts+metadata,MIP,1,1
+792,concepts+metadata,MIP,1,1
+793,concepts+metadata,MIP,1,1
+796,concepts+metadata,MIP,1,1
+797,concepts+metadata,MIP,1,1
+799,concepts+metadata,MIP,1,1
+801,concepts+metadata,MIP,1,1
+804,concepts+metadata,MIP,1,1
+806,concepts+metadata,MIP,1,1
+808,concepts+metadata,MIP,1,1
+810,concepts+metadata,MIP,1,1
+811,concepts+metadata,MIP,1,0
+812,concepts+metadata,MIP,1,1
+813,concepts+metadata,MIP,1,1
+817,concepts+metadata,MIP,1,1
+818,concepts+metadata,MIP,1,1
+820,concepts+metadata,MIP,1,1
+821,concepts+metadata,MIP,1,1
+827,concepts+metadata,MIP,1,1
+854,concepts+metadata,MIP,0,0
+859,concepts+metadata,MIP,0,0
+862,concepts+metadata,MIP,0,1
+863,concepts+metadata,MIP,0,1
+865,concepts+metadata,MIP,0,0
+866,concepts+metadata,MIP,0,0
+867,concepts+metadata,MIP,0,1
+868,concepts+metadata,MIP,0,0
+872,concepts+metadata,MIP,0,1
+874,concepts+metadata,MIP,0,1
+878,concepts+metadata,MIP,0,0
+880,concepts+metadata,MIP,0,0
+881,concepts+metadata,MIP,0,0
+884,concepts+metadata,MIP,0,1
+887,concepts+metadata,MIP,0,0
+888,concepts+metadata,MIP,0,1
+889,concepts+metadata,MIP,0,1
+890,concepts+metadata,MIP,0,1
+897,concepts+metadata,MIP,0,0
+901,concepts+metadata,MIP,0,1
+904,concepts+metadata,MIP,0,0
+905,concepts+metadata,MIP,0,1
+908,concepts+metadata,MIP,0,0
+909,concepts+metadata,MIP,0,0
+910,concepts+metadata,MIP,0,0
+911,concepts+metadata,MIP,0,1
+912,concepts+metadata,MIP,0,1
+915,concepts+metadata,MIP,0,1
+916,concepts+metadata,MIP,0,0
+919,concepts+metadata,MIP,0,1
+920,concepts+metadata,MIP,0,1
+922,concepts+metadata,MIP,0,1
+924,concepts+metadata,MIP,0,0
+926,concepts+metadata,MIP,0,1
+936,concepts+metadata,MIP,0,0
+1011,concepts+metadata,MIP,1,0

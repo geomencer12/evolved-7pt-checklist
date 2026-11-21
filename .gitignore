@@ -4,8 +4,6 @@ data/processed/
 *.npz
 *.parquet
 
-# results
-results/
 *.log
 
 # python
